@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="msg">Enter a message</string>
+    <string name="s_m">Show message</string>
+    <string name="n_m">No message</string>
+
+</resources>
